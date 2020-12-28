@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ### Stacks
 
-![C Icon](https://simpleicons.org/icons/c.svg){:width="10px" height="10px"},![C++ Icon](https://simpleicons.org/icons/cplusplus.svg){:width="50%" height="50%"},![C# Icon](https://simpleicons.org/icons/csharp.svg){:width="50%" height="50%"}
+![C Icon](https://simpleicons.org/icons/c.svg){: width="10" height="10"} ![C++ Icon](https://simpleicons.org/icons/cplusplus.svg){:width="50%" height="50%"},![C# Icon](https://simpleicons.org/icons/csharp.svg){:width="50%" height="50%"}
 * ![HTML5 Icon](https://simpleicons.org/icons/html5.svg){:width="50%" height="50%"},![CSS3 Icon](https://simpleicons.org/icons/css3.svg){:width="50%" height="50%"},![React Icon](https://simpleicons.org/icons/react.svg){:width="50%" height="50%"}
 * ![Jekyll Icon](https://simpleicons.org/icons/jekyll.svg){:width="50%" height="50%"}
 * ![Unity Icon](https://simpleicons.org/icons/unity.svg){:width="50%" height="50%"}
