@@ -24,11 +24,10 @@ Here are some ideas to get you started:
   -->
 
 ### Stacks
-* <img src="https://simpleicons.org/icons/c.svg" width="30" height="30">
-![C++ Icon](https://simpleicons.org/icons/cplusplus.svg){:width="50%" height="50%"},![C# Icon](https://simpleicons.org/icons/csharp.svg){:width="50%" height="50%"}
-* ![HTML5 Icon](https://simpleicons.org/icons/html5.svg){:width="50%" height="50%"},![CSS3 Icon](https://simpleicons.org/icons/css3.svg){:width="50%" height="50%"},![React Icon](https://simpleicons.org/icons/react.svg){:width="50%" height="50%"}
-* ![Jekyll Icon](https://simpleicons.org/icons/jekyll.svg){:width="50%" height="50%"}
-* ![Unity Icon](https://simpleicons.org/icons/unity.svg){:width="50%" height="50%"}
+* <img src="https://simpleicons.org/icons/c.svg" width="30" height="30">,<img src="https://simpleicons.org/icons/cplusplus.svg" width="30" height="30">,<img src="https://simpleicons.org/icons/csharp.svg" width="30" height="30">
+* <img src="https://simpleicons.org/icons/html5.svg" width="30" height="30">,<img src="https://simpleicons.org/icons/css3.svg" width="30" height="30">,<img src="https://simpleicons.org/icons/react.svg" width="30" height="30">
+* <img src="https://simpleicons.org/icons/jekyll.svg" width="30" height="30">
+* <img src="https://simpleicons.org/icons/unity.svg" width="30" height="30">
 
 
 
