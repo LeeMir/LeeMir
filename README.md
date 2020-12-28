@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 * <img src="https://simpleicons.org/icons/jekyll.svg" width="20" height="20">
 * <img src="https://simpleicons.org/icons/unity.svg" width="20" height="20"> -->
 
-<div align="center>
+<div align="center">
 
 [![langs stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeMir&langs_count=8)](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeMir&langs_count=8)
 
