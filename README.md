@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 * <img src="https://simpleicons.org/icons/jekyll.svg" width="20" height="20">
 * <img src="https://simpleicons.org/icons/unity.svg" width="20" height="20">
 
-### 🔭 My Blog [Click me!](https://leemir.github.io)
+### 🔭 My Blog   [ > Click me! <](https://leemir.github.io)
 
 <div align="center">
 
