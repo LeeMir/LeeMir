@@ -24,8 +24,13 @@ Here are some ideas to get you started:
   -->
 
 
-### 🔭 My Blog
+### 🌱 My Blog
 * [ > Click me! <](https://leemir.github.io)
+
+### 🔭 I'm on
+* Mon, Wed, Fri : Problem Solve (Programmers, BOG)
+* Tue, Thu : Study (Git, Jekyll, CSS, React)
+* Project ABAO
 
 <div align="center">
 
