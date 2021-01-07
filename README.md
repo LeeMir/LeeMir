@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 * Mon, Wed, Fri : Problem Solve (Programmers, BOG)
 * Tue, Thu : Study (Git, Jekyll, CSS, React)
 * Project ABAO
+* Project 소보로빵
 
 <div align="center">
   
