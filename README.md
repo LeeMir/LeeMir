@@ -35,11 +35,13 @@ Here are some ideas to get you started:
 <div align="center">
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLeeMir&count_bg=%233BC4DD&title_bg=%23828282&icon=&icon_color=%23E7E7E7&title=HITS%21&edge_flat=false)](https://hits.seeyoufarm.com)
-  
+
+[![Solved.ac mir_jjang](http://mazassumnida.wtf/api/v2/generate_badge?boj=mir_jjang&cache=c)](https://solved.ac/mir_jjang)
+
 [![langs stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeMir&langs_count=8&hide=scss,ruby)](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeMir&langs_count=8)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LeeMir&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Solved.ac mir_jjang](http://mazassumnida.wtf/api/v2/generate_badge?boj=mir_jjang&cache=c)](https://solved.ac/mir_jjang)
+
 
 </div>
