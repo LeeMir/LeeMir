@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 ### 🔭 I'm on
 * Mon, Wed, Fri : Problem Solve (Programmers, BOG)
 * Tue, Thu : Study (Git, Jekyll, CSS, React, JS)
-* Project ABAO
+* Project BABAO
 
 <div align="center">
   
