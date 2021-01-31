@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 [![langs stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeMir&langs_count=8&hide=scss,ruby,html)](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeMir&langs_count=8)
 
-[![Solved.ac mir_jjang](http://mazassumnida.wtf/api/v2/generate_badge?boj=mir_jjang&cache=c)](https://solved.ac/mir_jjang)
+[![Solved.ac mir_jjang](http://mazassumnida.wtf/api/v2/generate_badge?boj=mir_jjang)](https://solved.ac/mir_jjang)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LeeMir&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
