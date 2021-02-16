@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 ### 🔭 I'm on
 * Mon, Wed, Fri : Problem Solve (Programmers, BOG)
-* Tue, Thu : Study (Git, CSS, React, JS)
+* Tue, Thu : Study (Git, CSS, React)
 * Project BABAO😁
 
 <div align="center">
