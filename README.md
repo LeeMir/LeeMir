@@ -28,8 +28,8 @@ Here are some ideas to get you started:
 * [ > Click me! <](https://leemir.github.io)
 
 ### 🔭 I'm on
-* Junior in Univ. of Seoul
-* Project BABAO😁
+* Junior in Univ. of Seoul ✏
+* Project BABAO 😁
 
 <div align="center">
   
