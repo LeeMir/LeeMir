@@ -28,8 +28,7 @@ Here are some ideas to get you started:
 * [ > Click me! <](https://leemir.github.io)
 
 ### 🔭 I'm on
-* Mon, Wed, Fri : Problem Solve (Programmers, BOG)
-* Tue, Thu : Study (Git, CSS, React)
+* Junior in Univ. of Seoul
 * Project BABAO😁
 
 <div align="center">
