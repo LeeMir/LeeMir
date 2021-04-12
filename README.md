@@ -29,7 +29,8 @@ Here are some ideas to get you started:
 
 ### 🔭 I'm on
 * Junior in Univ. of Seoul ✏
-* Project BABAO 😁
+* DSC UOS 😁
+* Project BABAO 🐾
 
 <div align="center">
   
