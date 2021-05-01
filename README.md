@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 </div>
 
-* ###### Studying But They're Will My Stack :) </h6>
+* ##### Studying But They're Will My Stack :) </h6>
   * <div>
       <a href="#" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/></a>
       <a href="#" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/></a>
