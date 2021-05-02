@@ -30,7 +30,8 @@ Here are some ideas to get you started:
 ### Hi There! ✨
 
 ### 🌱 My Blog
-* [ > Click me! <](https://leemir.github.io)
+* [ > Blog <](https://leemir.github.io)
+* [ > Resume <](https://leemir.github.io/resume.html)
 
 ### 🔭 I'm on
 * Junior in Univ. of Seoul ✏
