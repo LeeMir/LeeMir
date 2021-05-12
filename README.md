@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 * Junior in Univ. of Seoul ✏
 * DSC UOS 😁
 * Project BABAO 🐾
+* Project Wallet-Expedition 💰
 
 ### ⚡ Stack
 
