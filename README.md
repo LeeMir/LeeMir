@@ -21,11 +21,13 @@ Here are some ideas to get you started:
 
   -->
   
-<div align="center">
+<div align='center'>
   
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLeeMir&count_bg=%233BC4DD&title_bg=%23828282&icon=&icon_color=%23E7E7E7&title=HITS%21&edge_flat=false)](https://hits.seeyoufarm.com)
+  <img width='100%' src="https://capsule-render.vercel.app/api?type=waving&color=B5EAEA&height=300&section=header&text=LeeMir&fontColor=11324D&fontSize=70&animation=fadeIn" />
 
 </div>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLeeMir&count_bg=%233BC4DD&title_bg=%23828282&icon=&icon_color=%23E7E7E7&title=HITS%21&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ### Hi There! ✨
 
@@ -69,3 +71,5 @@ Here are some ideas to get you started:
   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LeeMir&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
+
+<img width='100%' src="https://capsule-render.vercel.app/api?type=wave&color=EDF6E5&height=200&section=footer&rotate=360" />
