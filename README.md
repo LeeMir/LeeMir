@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 ### 🔭 I'm on
 * Junior in Univ. of Seoul ✏
-* DSC UOS FE Core Member 😁
+* GDSC UOS FE Core Member 😁
 * boostcamp 6th Web Fullstack 🔥
 * Project BABAO 🐾
 * Project Wallet-Expedition 💰
