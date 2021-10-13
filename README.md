@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 * [ > Resume <](https://leemir.github.io/resume.html)
 
 ### 🔭 I'm on
-* Junior in Univ. of Seoul ✏
+* Junior Sophister in Univ. of Seoul ✏
 * GDSC UOS FE Core Member 😁
 * boostcamp 6th Web Fullstack 🔥
 * Project BABAO 🐾
