@@ -70,6 +70,8 @@ Here are some ideas to get you started:
 
   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LeeMir&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
 </div>
 
 <img width='100%' src="https://capsule-render.vercel.app/api?type=wave&color=EDF6E5&height=200&section=footer&rotate=360" />
