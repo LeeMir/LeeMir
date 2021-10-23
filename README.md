@@ -58,20 +58,11 @@ Here are some ideas to get you started:
       <a href="#" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/></a>
       <a href="#" target="_blank"><img src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white"/></a>
     </div>
-   
-
-- - - 
-
-<br/>
-
-<div align="center">
-
-  [![Solved.ac mir_jjang](http://mazassumnida.wtf/api/v2/generate_badge?boj=mir_jjang)](https://solved.ac/mir_jjang)
-
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LeeMir&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 - - -
-  <!--START_SECTION:waka-->
+
+<!--START_SECTION:waka-->
+
 ![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-563140%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue)
 
 **저는 저녁형 인간이에요. 🦉** 
@@ -93,17 +84,22 @@ Here are some ideas to get you started:
 💬 프로그래밍 언어들: 
 이번 주에 활동은 없어요.
 
-🔥 에디터들: 
-이번 주에 활동은 없어요.
-
-💻 운영 체제들: 
-이번 주에 활동은 없어요.
-
 ```
 
 
  Last Updated on 23/10/2021
 <!--END_SECTION:waka-->
+
+- - - 
+
+<br/>
+
+<div align="center">
+
+  [![Solved.ac mir_jjang](http://mazassumnida.wtf/api/v2/generate_badge?boj=mir_jjang)](https://solved.ac/mir_jjang)
+
+  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LeeMir&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+  
 </div>
 
 <img width='100%' src="https://capsule-render.vercel.app/api?type=wave&color=EDF6E5&height=200&section=footer&rotate=360" />
