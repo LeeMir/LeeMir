@@ -97,6 +97,8 @@ SCSS                     11 mins             █░░░░░░░░░░�
 
   [![Solved.ac mir_jjang](http://mazassumnida.wtf/api/v2/generate_badge?boj=mir_jjang)](https://solved.ac/mir_jjang)
 
+  [![Solved.ac mir_jjang](https://gdsc-uos-github-badge-1tfnbg82r-leemir.vercel.app/api/leemir)](https://solved.ac/mir_jjang)
+
   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LeeMir&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
