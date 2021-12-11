@@ -59,6 +59,10 @@ Here are some ideas to get you started:
 
 - - -
 
+<details>
+  <summary>View Wakatime</summary>
+  <br />
+
 <!--START_SECTION:waka-->
 **저는 저녁형 인간이에요. 🦉** 
 
@@ -88,6 +92,8 @@ SCSS                     11 mins             █░░░░░░░░░░�
 
  Last Updated on 10/12/2021
 <!--END_SECTION:waka-->
+
+</details>
 
 - - - 
 
