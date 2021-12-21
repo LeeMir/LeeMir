@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 ### Hi There! ✨
 
 ### 🌱 My Blog
-* [ > Blog <](https://https://think-thing.tistory.com/)
+* [ > Blog <](https://think-thing.tistory.com/)
 * [ > Resume <](https://leemir.github.io/resume.html)
 
 ### 🔭 I'm on
