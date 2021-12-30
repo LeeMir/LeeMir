@@ -103,10 +103,9 @@ Other                    0 secs              ░░░░░░░░░░░�
 
   <!-- [![Solved.ac mir_jjang](http://mazassumnida.wtf/api/v2/generate_badge?boj=mir_jjang)](https://solved.ac/mir_jjang) -->
 
-  [![GDSC Badge](https://gdsc-uos-github-badge.vercel.app/api/leemir)](https://gdsc-uos-github-badge-1tfnbg82r-leemir.vercel.app/api/leemir)
+  ![GDSC Badge](https://gdsc-uos-github-badge.vercel.app/api/color/leemir)
 
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LeeMir&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-  
+  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LeeMir&show_icons=true)
 </div>
 
 <img width='100%' src="https://capsule-render.vercel.app/api?type=wave&color=EDF6E5&height=200&section=footer&rotate=360" />
