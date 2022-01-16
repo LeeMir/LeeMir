@@ -31,28 +31,31 @@ Here are some ideas to get you started:
 
 ### Hi There! ✨
 
-### 🌱 My Blog
+### 🙋‍♂️ Who am I
+* Junior Sophister in Univ. of Seoul 🏫
+* GDSC UOS FE Team Core Member 🔥
+* Project Wallet-Expedition 💰
 * [ > Blog <](https://think-thing.tistory.com/)
 * [ > Resume <](https://leemir.github.io/resume.html)
 
-### 🔭 I'm on
-* Junior Sophister in Univ. of Seoul ✏
-* GDSC UOS FE Core Member 😁
-* boostcamp 6th Web Fullstack 🔥
-* Project BABAO 🐾
-* Project Wallet-Expedition 💰
+### 🌱 Experience
+|Date|Details|Organization|
+|----|--------|------|
+|21.04 ~ 21.08|Web(FE) Team: Member|GDSC UOS|
+|21.07 ~ 21.08|boostcamp Web Fullstack 6th: Challenge |NAVER CONNECT|
+|21.08 ~ 21.12|boostcamp Web Fullstack 6th: Membership |NAVER CONNECT|
+|21.09 ~ |Frontend Team: Core Member|GDSC UOS|
 
 ### ⚡ Stacks
 
-* <div>
+<div>
 
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Jekyll-CC0000?style=flat-square&logo=Jekyll&logoColor=white"/></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white"/></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/></a>
 
 </div>
       
