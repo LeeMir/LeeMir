@@ -31,12 +31,17 @@ Here are some ideas to get you started:
 
 ### Hi There! ✨
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=LeeMir&show_icons=true" />
+
 ### 🙋‍♂️ Who am I
+
 * Junior Sophister in Univ. of Seoul 🏫
 * GDSC UOS FE Team Core Member 🔥
 * Project Wallet-Expedition 💰
 * [ > Blog <](https://think-thing.tistory.com/)
 * [ > Resume <](https://leemir.github.io/resume.html)
+
+<br />
 
 ### 🌱 Experience
 |Date|Details|Organization|
@@ -46,6 +51,8 @@ Here are some ideas to get you started:
 |21.08 ~ 21.12|boostcamp Web Fullstack 6th: Membership |NAVER CONNECT|
 |21.09 ~ |Frontend Team: Core Member|GDSC UOS|
 |22.01 ~ |동계 대학생 S/W 알고리즘 역량강화 과정|삼성전자|
+
+<br />
 
 ### ⚡ Stacks
 
@@ -108,8 +115,7 @@ YAML                     1 min               ░░░░░░░░░░░�
   <!-- [![Solved.ac mir_jjang](http://mazassumnida.wtf/api/v2/generate_badge?boj=mir_jjang)](https://solved.ac/mir_jjang) -->
 
   ![GDSC Badge](https://gdsc-uos-github-badge.vercel.app/api/color/leemir)
-
-  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LeeMir&show_icons=true)
+  
 </div>
 
 <img width='100%' src="https://capsule-render.vercel.app/api?type=wave&color=EDF6E5&height=200&section=footer&rotate=360" />
