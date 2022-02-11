@@ -20,12 +20,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
   -->
-  
-<div align='center'>
-  
-  <img width='100%' src="https://capsule-render.vercel.app/api?type=waving&color=B5EAEA&height=300&section=header&text=LeeMir&fontColor=11324D&fontSize=70&animation=fadeIn" />
-
-</div>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLeeMir&count_bg=%233BC4DD&title_bg=%23828282&icon=&icon_color=%23E7E7E7&title=HITS%21&edge_flat=false)](https://hits.seeyoufarm.com)
 
@@ -142,5 +136,3 @@ JSON                     9 mins              ░░░░░░░░░░░�
   ![GDSC Badge](https://gdsc-uos-github-badge.vercel.app/api/color/leemir)
   
 </div>
-
-<img width='100%' src="https://capsule-render.vercel.app/api?type=wave&color=EDF6E5&height=200&section=footer&rotate=360" />
