@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 * Junior Sophister in Univ. of Seoul 🏫
 * GDSC UOS FE Team Core Member 🔥
 * Project Wallet-Expedition 💰
+
 <div>
 
 [![Resume](https://img.shields.io/badge/Resume-121212?style=for-the-badge&logo=notion&logoColor=white)](https://leemir.github.io/resume.html)
@@ -48,7 +49,7 @@ Here are some ideas to get you started:
 |21.07 ~ 21.08|boostcamp Web Fullstack 6th: Challenge |NAVER CONNECT|
 |21.08 ~ 21.12|boostcamp Web Fullstack 6th: Membership |NAVER CONNECT|
 |21.09 ~ |Frontend Team: Core Member|GDSC UOS|
-|22.01 ~ |동계 대학생 S/W 알고리즘 역량강화 과정|삼성전자|
+|22.01 ~ 22.02|동계 대학생 S/W 알고리즘 역량강화 과정|삼성전자|
 
 <br />
 
@@ -125,7 +126,7 @@ CSS                      0 secs              ░░░░░░░░░░░�
 
 </details>
 
-- - - 
+- - -
 
 <br/>
 
