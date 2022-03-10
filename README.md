@@ -64,15 +64,19 @@ Here are some ideas to get you started:
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/styled components-DB7093?style=for-the-badge&logo=sass&logoColor=white"/></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=white"/></a>
+  <!--
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white"/></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white"/></a>
+  -->
 </div>
 <div>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=Node.js&logoColor=white"/></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white"/></a>
+  <!--
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=Socket.io&logoColor=white"/></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/></a>
+  -->
 </div>
 <div>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></a>
@@ -84,7 +88,7 @@ Here are some ideas to get you started:
 </div>
 <div>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Jekyll-CC0000?style=for-the-badge&logo=jekyll&logoColor=white"/></a>
+  <!--<a href="#" target="_blank"><img src="https://img.shields.io/badge/Jekyll-CC0000?style=for-the-badge&logo=jekyll&logoColor=white"/></a>-->
 </div>
 
 - - -
