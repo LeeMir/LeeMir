@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 </div>
 <div>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/styled components-DB7093?style=for-the-badge&logo=sass&logoColor=white"/></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/styled components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=white"/></a>
   <!--
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/></a>
