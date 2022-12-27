@@ -98,7 +98,7 @@ Here are some ideas to get you started:
   <br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-645%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-647%20hrs%209%20mins-blue)
 
 **저는 저녁형 인간이에요. 🦉** 
 
@@ -126,7 +126,7 @@ Markdown                 3 mins              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 26/12/2022 18:36:22 UTC
+ Last Updated on 27/12/2022 18:36:30 UTC
 <!--END_SECTION:waka-->
 
 </details>
