@@ -22,23 +22,27 @@ Here are some ideas to get you started:
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLeeMir&count_bg=%233BC4DD&title_bg=%23828282&icon=&icon_color=%23E7E7E7&title=HITS%21&edge_flat=false)](https://hits.seeyoufarm.com)
 
-### Hi There! ✨
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=LeeMir&show_icons=true" />
-
-### 🙋‍♂️ Who am I
-
-* Junior Sophister in Univ. of Seoul 🏫
-* GDSC UOS FE Team Core Member 🔥
-* Project Wallet-Expedition 💰
-
-<div>
-
 [![Resume](https://img.shields.io/badge/Resume-121212?style=for-the-badge&logo=notion&logoColor=white)](https://leemir.github.io/resume.html)
 [![Tistory](https://img.shields.io/badge/BLog-005F0F?style=for-the-badge&logo=thingiverse&logoColor=white)](https://think-thing.tistory.com)
 
+## Hi There! ✨
+
+<img align="right" width="60%" src="https://github-readme-activity-graph.cyclic.app/graph?username=LeeMir&theme=react&radius=9" />
+
+### 🙋‍♂️ I'm on..
+
+* Senior Sophister in Univ. of Seoul (CS) 🏫
+* Project Piece-Of-Day 📆
+* [2022년 회고 🖋️](https://think-thing.tistory.com/19)
+
+<div align="right">
+
+<img src="https://github-readme-stats.vercel.app/api?username=LeeMir&theme=tokyonight&show_icons=true" />
+<img src="https://streak-stats.demolab.com?user=LeeMir&theme=react&border_radius=4.5&date_format=%5BY.%5Dn.j" />
+
 </div>
 
+<br />
 <br />
 
 ### 🌱 Experience
@@ -47,7 +51,7 @@ Here are some ideas to get you started:
 |21.04 ~ 21.08|Web(FE) Team: Member|GDSC UOS|
 |21.07 ~ 21.08|boostcamp Web Fullstack 6th: Challenge |NAVER CONNECT|
 |21.08 ~ 21.12|boostcamp Web Fullstack 6th: Membership |NAVER CONNECT|
-|21.09 ~ |Frontend Team: Core Member|GDSC UOS|
+|21.09 ~ 22.08|Frontend Team: Core Member|GDSC UOS|
 |22.01 ~ 22.02|동계 대학생 S/W 알고리즘 역량강화 과정|삼성전자|
 
 <br />
@@ -134,10 +138,5 @@ XML                      4 mins              █░░░░░░░░░░�
 
 <br/>
 
-<div align="center">
-
-  <!-- [![Solved.ac mir_jjang](http://mazassumnida.wtf/api/v2/generate_badge?boj=mir_jjang)](https://solved.ac/mir_jjang) -->
-
-  ![GDSC Badge](https://gdsc-uos-github-badge.vercel.app/api/color/leemir)
-  
-</div>
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=mir_jjang" />
+<img src="https://gdsc-uos-github-badge.vercel.app/api/color/leemir" />
