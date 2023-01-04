@@ -37,8 +37,8 @@ Here are some ideas to get you started:
 
 <div align="right">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=LeeMir&theme=tokyonight&show_icons=true" />
-<img width="48%" src="https://streak-stats.demolab.com?user=LeeMir&theme=react&border_radius=4.5&date_format=%5BY.%5Dn.j" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=LeeMir&theme=tokyonight&show_icons=true" />
+<img width="49%" src="https://streak-stats.demolab.com?user=LeeMir&theme=react&border_radius=4.5&date_format=%5BY.%5Dn.j" />
 
 </div>
 
