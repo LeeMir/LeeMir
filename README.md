@@ -32,7 +32,9 @@ Here are some ideas to get you started:
 ### 🙋‍♂️ I'm on..
 
 * Senior Sophister in Univ. of Seoul (CS) 🏫
-* Project Piece-Of-Day 📆
+* Project EGGY 🥚
+* Project SCV 🎞️
+* Project 오늘, 한 줄 📆
 * [2022년 회고 🖋️](https://think-thing.tistory.com/19)
 
 <div align="right">
