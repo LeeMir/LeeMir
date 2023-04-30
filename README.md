@@ -102,7 +102,7 @@ Here are some ideas to get you started:
   <br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-729%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-730%20hrs%201%20min-blue)
 
 **저는 저녁형 인간이에요. 🦉** 
 
@@ -128,7 +128,7 @@ Bash                     34 mins             █░░░░░░░░░░�
 ```
 
 
- Last Updated on 29/04/2023 18:34:54 UTC
+ Last Updated on 30/04/2023 18:34:56 UTC
 <!--END_SECTION:waka-->
 
 </details>
