@@ -102,7 +102,7 @@ Here are some ideas to get you started:
   <br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-825%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-825%20hrs%2015%20mins-blue)
 
 **저는 저녁형 인간이에요. 🦉** 
 
@@ -120,13 +120,12 @@ Here are some ideas to get you started:
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-TypeScript               9 mins              ████████████████████████░   96.03 % 
-JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+TypeScript               8 mins              ████████████████████████░   95.64 % 
+JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
 ```
 
 
- Last Updated on 22/06/2023 18:35:13 UTC
+ Last Updated on 23/06/2023 18:40:11 UTC
 <!--END_SECTION:waka-->
 
 </details>
