@@ -120,11 +120,11 @@ Here are some ideas to get you started:
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-TypeScript               43 mins             █████████████████████████   100.00 % 
+TypeScript               22 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 28/07/2023 18:35:22 UTC
+ Last Updated on 29/07/2023 18:35:00 UTC
 <!--END_SECTION:waka-->
 
 </details>
