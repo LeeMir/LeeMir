@@ -27,22 +27,10 @@ Here are some ideas to get you started:
 
 ## Hi There! ✨
 
-<img align="right" width="60%" src="https://github-readme-activity-graph.cyclic.app/graph?username=LeeMir&theme=react&radius=9" />
-
 ### 🙋‍♂️ I'm on..
 
-* Senior Sophister in Univ. of Seoul (CS) 🏫
-* Project EGGY 🥚
-* Project SCV 🎞️
-* Project 오늘, 한 줄 📆
 * [2022년 회고 🖋️](https://think-thing.tistory.com/19)
 
-<div align="right">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=LeeMir&theme=tokyonight&show_icons=true" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=LeeMir&theme=react&border_radius=4.5&date_format=%5BY.%5Dn.j" />
-</div>
-
-<br />
 <br />
 
 ### 🌱 Experience
@@ -59,40 +47,21 @@ Here are some ideas to get you started:
 ### ⚡ Stacks
   
 <div>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/></a>
-</div>
-<div>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/styled components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=white"/></a>
-  <!--
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white"/></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white"/></a>
-  -->
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/NextJS-000000?style=for-the-badge&logo=next.js&logoColor=white"/></a>
 </div>
 <div>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=Node.js&logoColor=white"/></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white"/></a>
-  <!--
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=Socket.io&logoColor=white"/></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/></a>
-  -->
 </div>
 <div>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Swit-E8555E?style=for-the-badge&logo=GoogleFit&logoColor=white"/></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"/></a>
 </div>
 <div>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/></a>
-  <!--<a href="#" target="_blank"><img src="https://img.shields.io/badge/Jekyll-CC0000?style=for-the-badge&logo=jekyll&logoColor=white"/></a>-->
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/></a>
 </div>
 
 - - -
@@ -131,7 +100,3 @@ Here are some ideas to get you started:
 
 - - -
 
-<br/>
-
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=mir_jjang" />
-<img src="https://gdsc-uos-github-badge.vercel.app/api/color/leemir" />
