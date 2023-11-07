@@ -96,11 +96,11 @@ Here are some ideas to get you started:
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-TypeScript               0 secs              █████████████████████████   100.00 % 
+이번 주에 활동은 없어요.
 ```
 
 
- Last Updated on 06/11/2023 18:35:15 UTC
+ Last Updated on 07/11/2023 18:34:57 UTC
 <!--END_SECTION:waka-->
 
 </details>
