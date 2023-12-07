@@ -78,6 +78,8 @@ Here are some ideas to get you started:
   <br />
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-833%20hrs%2028%20mins-blue)
+
 **저는 저녁형 인간이에요. 🦉** 
 
 ```text
@@ -98,7 +100,7 @@ Here are some ideas to get you started:
 ```
 
 
- Last Updated on 06/12/2023 18:35:54 UTC
+ Last Updated on 07/12/2023 18:36:10 UTC
 <!--END_SECTION:waka-->
 
 </details>
